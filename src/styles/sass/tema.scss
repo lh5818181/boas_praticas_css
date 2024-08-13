@@ -1,0 +1,13 @@
+
+.produto {
+    &__descricao {
+        color: gray;
+    };
+}
+
+.em-destaque  {
+        border: 2px solid gold;
+        padding: 8px;
+        background-color: #ffff42;
+        
+}
